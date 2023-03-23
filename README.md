@@ -6,7 +6,10 @@ This is a webpage for Horiseon which displays their search engine optimization, 
 
 ## Installation
 
-N/A
+view he webpage a the following link https://ivyreed.github.io/horiseon-webpage/
+
+![the display should show as follows.](./assets/Images/top-half.jpg)
+![This is he second half of how it should look](./assets/Images/bottom-half.jpg)
 
 ## Usage
 
