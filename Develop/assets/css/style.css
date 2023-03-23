@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 }
+/* consolidated selectors into one area */
 
 body {
     background-color: #d9dcd6;
@@ -34,6 +35,8 @@ p {
     color: #d9dcd6;
 }
 
+/* took out extra div in header */
+
 .header ul {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,6 +51,7 @@ p {
     margin-left: 25px;
 }
 
+/* changed hero to an image and deleted the background image */
 
 .hero {
     height: 800px;
@@ -74,6 +78,7 @@ p {
 
 }
 
+/* combined multiple instances of benefits */
 
 .benefits {
     margin-right: 20px;
@@ -98,6 +103,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* created new class to encompas repeating elements */
 
 .articles {
     margin-bottom: 20px;
